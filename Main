@@ -1,0 +1,72 @@
+<!DOCUTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Resume</title>
+<style>
+h1 {font-size: 40px;}
+h2 {font-size: 20px;}
+h3 {font-size: 20px;}
+h4 {font-size: 20px;}
+h5 {font-size: 20px;}
+h6 {font-size: 20px;}
+p  {font-size: 15px;}
+ul {list-style-type: square;}
+li {color: blue;}
+</style>
+</head>
+<body>
+	<h1>Zach Samuelson</h1>
+		<hr font color="00FF00">
+		<p>1217th North 16th Street C4, Murray, KY 42071 / (901)-233-7365 / zsamuelson@murraystate.edu</p>
+	<h2>Links</h2>
+		<hr font color="00FF00">
+		<ul>
+			<li><a href="https://github.com/zsamuelsons">Github</a>
+			<li><a href="https://www.linkedin.com/in/zachariah-samuelson-76918b1b8/">Linkedin</a>
+		</ul>
+	<h3>Summary</h3>
+		<hr font color="00FF00">
+		<p>Seeking an internship position to expand knowledge of software engineering, creating new
+		and interesting solutions to fix consumer problems while keeping them happy in the process,
+		and gain a new information on fixing and/or repairing technological instruments to perform 
+		to perform to exact specifications for consumers benefit.</p>
+	<h4>Skills</h4>
+		<hr font color="00FF00">
+		<ul>
+			<li>Java</li>
+			<li>C++</li>
+			<li>SQL</li>
+			<li>Word</li>
+			<li>Excel</li>
+			<li>Studying Python & HTML</li>
+			<li>Excellent communicator</li>
+			<li>innovative problem-solving skills</li>
+			<li>Friendly, team-oriented, and goal-oriented</li>
+			<li>Attentive listener</li>
+		</ul>
+	<h5>Experience</h5>
+		<hr font color="00FF00">
+		<ul>
+			<li>Phi Mu Alpha "Campus Lights" Lights Manager- 2018, 2021</li>
+				<p> Managed a team to of 4 people to operate 3 spotlights with a lightboard to create intriguing
+				effects to capture audience's attention of mystery, suspense, action, and thrill for the production
+				of 2 and 1/2 hour show "Into the Woods" and 2 hour show "Legally Blonde" </p>
+			<li>BB&T Janitorial Supervisor- June 2019 - October 2020</li>
+				<p>Communicated effectively to lead a team of 3 people to clean 2 BB&T banks
+				nightly.  Ordered suplies from upper management before needed to avoid unavailable
+				supplies, and would calculate pay and distribute money to other associates who worked
+				job sites.</p>
+			<li>Walmart Online Grocery Pickup/Food Sales Associate/Backup Team-Lead- 2019 - Present</li>
+				<p>Started as a Food Sales Associate for the Frozen/Dairy area of the store, working
+				with teammates to effectively keep all cooler iteams stocked.  After management 
+				notice of my teamwork, communication skills, and exceptional work ethic, I was promoted 
+				to Online Grocery Pickup; shopping for customers using a scanner with several decision
+				support systems apps to help teammates provide flawless customer service.</p>
+		</ul>
+	<h6>Education</h6>
+		<hr font color="00FF00">
+		<li>Arlington High School- Graduated May 2013 with Honors</li>
+		<li>Murray State Universiity- August 2013 - Present</li>
+</body>
+</html>
